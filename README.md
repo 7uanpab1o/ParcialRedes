@@ -1,4 +1,3 @@
 # ParcialReded
 
-Name: Juan Pablo Muñoz
-Code: A00048408
+Name: Juan Pablo Muñoz, Brayan Bejarano, Camilo Jimenez,Nicolas Tavorda
